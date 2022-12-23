@@ -4,7 +4,7 @@
 ## Overview and Origin
  
 
-   Cadre was incorporated 2014 and founded by Ryan Willaims. Ryan was inspired to create a system to track foreclosed homes after seeing the impact of foreclosures during a trip to Atlanta. By using data about properties and neighborhoods, he was able to start a business purchasing deeply undervalued homes and restoring them to occupancy. Cadre recieved its funding through venture capitalist firms, investemnt firms and real estate companies. Cadre has recieved a total of 800 million dollars in funding since 2014.
+   Cadre was incorporated 2014 and founded by Ryan Williams. Ryan was inspired to create a system to track foreclosed homes after seeing the impact of foreclosures during a trip to Atlanta. By using data about properties and neighborhoods, he was able to start a business purchasing deeply undervalued homes and restoring them to occupancy. Cadre recieved its funding through venture capitalist firms, investemnt firms and real estate companies. Cadre has recieved a total of 800 million dollars in funding since 2014.
 
 
 ## Business Activities:
