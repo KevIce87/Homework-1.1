@@ -22,4 +22,4 @@ Cadre has earned $5.12b+ in transaction value and distributed more than $461.8M+
 
 ## Recommendations
 
-I'd advise the company to venture out into a global scale and offer plain land. They would be able to cater to companies looking to build resorts or vacation home complexes. This would cause them to utilize GIS Technology which allows people to compare the locations of different things in order to discover how they relate to each other. 
+I'd advise the company to venture out into a global scale and offer plain land. They would be able to cater to companies looking to build resorts or vacation home complex. This would cause them to utilize GIS Technology which allows people to compare the locations of different things in order to discover how they relate to each other. 
