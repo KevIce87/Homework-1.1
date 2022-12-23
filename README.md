@@ -1,5 +1,5 @@
 # Homework
-# **Cadre Case study**
+# **Cadre Case Study**
 
 ## Overview and Origin
  
