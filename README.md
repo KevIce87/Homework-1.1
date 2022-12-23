@@ -18,7 +18,7 @@ The industry the company pertains to is a mix of real estate and invesment manag
 
 ## Results
 
-Cadre has earned $5.12b+ in transaction value and distributed more than $461.8M+ to investors. Some of the metrics are rate of return, where Cadre has achieved an 27.6% historical rate of return across all exited transactions. [In June](https://cadre.com/insights/forbes-fintech-50-for-six-years-running/) Cadre was named to the Forbes Fintech 50 for the sixth consecutive year. No other company in the industry has matched this record of recognition.
+Cadre has earned $5.12b+ in transaction value and distributed more than $461.8M+ to investors. Some of the metrics of success are a rate of return, where Cadre has achieved an 27.6% historical rate of return across all exited transactions. [In June](https://cadre.com/insights/forbes-fintech-50-for-six-years-running/) Cadre was named to the Forbes Fintech 50 for the sixth consecutive year. No other company in the industry has matched this record of recognition.
 
 ## Recommendations
 
